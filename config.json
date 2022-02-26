@@ -1,6 +1,6 @@
 {
 	"ip":"PranetSharma.aternos.me",
-	"port": 23204,
+	"port": "23204",
 	"name": "AFK BOT",
 	"auto-night-skip":"true",
 }
