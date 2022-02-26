@@ -1,0 +1,9 @@
+{
+	"ip":"PranetSharma.aternos.me",
+	"port": 23204,
+	"name": "afkbot1",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (pranet) (pranet)",
+	"login-cmd":"/login pranet
+}
